@@ -1,0 +1,2 @@
+intno=input()
+print(intno+'.')
