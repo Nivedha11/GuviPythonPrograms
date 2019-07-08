@@ -1,6 +1,6 @@
-kn1=input()
+int1=input()
 Nn1=['Saturday','Sunday']
-if kn1 in Nn1:
+if int1 in Nn1:
     print('yes')
 else:
     print('no')
