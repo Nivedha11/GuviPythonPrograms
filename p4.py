@@ -1,2 +1,2 @@
-intno=input()
-print(intno+'.')
+char1=input()
+print(char1+'.')
